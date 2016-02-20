@@ -1,5 +1,5 @@
 ﻿body {
-    font-family: Calibri, Arial, sans-serif;
+    font-family: SegoeUI, 'Segoe UI', Arial, sans-serif;
     font-size: 14px;
     color: #444;
 }
@@ -165,6 +165,7 @@ select {
     color: #666;
     outline: none;
     padding: 8px;
+    font-family: SegoeUI, 'Segoe UI', Arial, sans-serif;
 }
 
 #analizerContainer {
